@@ -27,10 +27,13 @@ What are the tools, in a nutshell?
 -------------------
 
 - Git
+
 A piece of software that allows you to log changes to your code and store code in a way that allows you to easily change it back.
 
 - Node.js
+
 A non-browser Javascript engine which allows you to access the local system in such a way that you can write traditional applications in Javascript.
 
 - phonegap
+
 A tool used to simplify the management of your phonegap applications.
