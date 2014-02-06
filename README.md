@@ -10,6 +10,17 @@ What is PhoneGap?
 PhoneGap (or the open source base cordova) is a technology that allows you create websites which interact with native features of mobile platforms. It turns your static site into a native application by running it in a browser session that has linking code to the actual platform. This allows you to write native plugins for advance functionality, while writing the bulk of your program in a way that doesn't require you to write the entire thing in a platform-specfic way. 
 
 
+Signing up to important things
+------------------------------
+
+Create an account on PhoneGap, at http://build.phonegap.com
+
+Do _not_ sign up with Github. It is not supported properly from the command line, and will lead to headaches.
+
+
+Create an account on Github http://github.com
+
+
 Installing the tools
 --------------------
 
